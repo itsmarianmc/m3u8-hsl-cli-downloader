@@ -1,4 +1,4 @@
-const FFMPEG_PATH = 'C:\\Program Files (x86)\\Tools\\FFMPEG\\bin\\ffmpeg.exe';
+const FFMPEG_PATH = 'C:\\Program Files\\ffmpeg\\bin\\ffmpeg.exe';
 
 const {
 	spawn
